@@ -1,0 +1,8 @@
+WeatherApp
+Copyright [2018] The Apache Software Foundation
+
+This product includes software developed by
+Kshithij Iyer.
+
+The software contains code derived from Weather
+API.
