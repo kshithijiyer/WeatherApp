@@ -22,7 +22,7 @@ cd WeatherApp
 ```
 python manage.py runserver
 ```
-5. Open the link ```http://127.0.0.1:8000/weather/``` on your web-browser to use the Application.
+5. Open the link ```http://127.0.0.1:8000/Weather/``` on your web-browser to use the Application.
 
 ## Usage
 * Type the city name and click on the Search Button.
